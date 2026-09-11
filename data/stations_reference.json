@@ -1,0 +1,432 @@
+{
+  "12727": {
+    "train_name": "Godavari Express",
+    "stations": [
+      {
+        "station_no": 1,
+        "code": "VSKP",
+        "name": "Visakhapatnam Jn",
+        "distance_km": 0,
+        "scheduled_offset_min": 0.0,
+        "scheduled_hour": 6
+      },
+      {
+        "station_no": 2,
+        "code": "RJY",
+        "name": "Rajahmundry",
+        "distance_km": 80,
+        "scheduled_offset_min": 85.8,
+        "scheduled_hour": 7
+      },
+      {
+        "station_no": 3,
+        "code": "KMT",
+        "name": "Khammam",
+        "distance_km": 260,
+        "scheduled_offset_min": 275.0,
+        "scheduled_hour": 10
+      },
+      {
+        "station_no": 4,
+        "code": "WL",
+        "name": "Warangal",
+        "distance_km": 300,
+        "scheduled_offset_min": 319.3,
+        "scheduled_hour": 11
+      },
+      {
+        "station_no": 5,
+        "code": "SC",
+        "name": "Secunderabad Jn",
+        "distance_km": 500,
+        "scheduled_offset_min": 529.2,
+        "scheduled_hour": 15
+      }
+    ]
+  },
+  "12805": {
+    "train_name": "Janmabhoomi Express",
+    "stations": [
+      {
+        "station_no": 1,
+        "code": "VSKP",
+        "name": "Visakhapatnam Jn",
+        "distance_km": 0,
+        "scheduled_offset_min": 0.0,
+        "scheduled_hour": 6
+      },
+      {
+        "station_no": 2,
+        "code": "DVD",
+        "name": "Duvvada",
+        "distance_km": 18,
+        "scheduled_offset_min": 23.0,
+        "scheduled_hour": 6
+      },
+      {
+        "station_no": 3,
+        "code": "AKP",
+        "name": "Anakapalle",
+        "distance_km": 33,
+        "scheduled_offset_min": 38.0,
+        "scheduled_hour": 6
+      },
+      {
+        "station_no": 4,
+        "code": "YLM",
+        "name": "Elamanchili",
+        "distance_km": 57,
+        "scheduled_offset_min": 53.0,
+        "scheduled_hour": 7
+      },
+      {
+        "station_no": 5,
+        "code": "TUNI",
+        "name": "Tuni",
+        "distance_km": 97,
+        "scheduled_offset_min": 78.0,
+        "scheduled_hour": 7
+      },
+      {
+        "station_no": 6,
+        "code": "ANV",
+        "name": "Annavaram",
+        "distance_km": 114,
+        "scheduled_offset_min": 98.0,
+        "scheduled_hour": 7
+      },
+      {
+        "station_no": 7,
+        "code": "SLO",
+        "name": "Samalkot Jn",
+        "distance_km": 151,
+        "scheduled_offset_min": 133.0,
+        "scheduled_hour": 8
+      },
+      {
+        "station_no": 8,
+        "code": "APT",
+        "name": "Anaparti",
+        "distance_km": 177,
+        "scheduled_offset_min": 149.0,
+        "scheduled_hour": 8
+      },
+      {
+        "station_no": 9,
+        "code": "RJY",
+        "name": "Rajahmundry",
+        "distance_km": 201,
+        "scheduled_offset_min": 178.0,
+        "scheduled_hour": 9
+      },
+      {
+        "station_no": 10,
+        "code": "TDD",
+        "name": "Tadepalligudem",
+        "distance_km": 243,
+        "scheduled_offset_min": 223.0,
+        "scheduled_hour": 10
+      },
+      {
+        "station_no": 11,
+        "code": "EE",
+        "name": "Eluru",
+        "distance_km": 291,
+        "scheduled_offset_min": 263.0,
+        "scheduled_hour": 10
+      },
+      {
+        "station_no": 12,
+        "code": "NZD",
+        "name": "Nuzvid",
+        "distance_km": 309,
+        "scheduled_offset_min": 283.0,
+        "scheduled_hour": 11
+      },
+      {
+        "station_no": 13,
+        "code": "BZA",
+        "name": "Vijayawada Jn",
+        "distance_km": 350,
+        "scheduled_offset_min": 342.0,
+        "scheduled_hour": 12
+      },
+      {
+        "station_no": 14,
+        "code": "TEL",
+        "name": "Tenali Jn",
+        "distance_km": 382,
+        "scheduled_offset_min": 385.0,
+        "scheduled_hour": 12
+      },
+      {
+        "station_no": 15,
+        "code": "GNT",
+        "name": "Guntur Jn",
+        "distance_km": 407,
+        "scheduled_offset_min": 410.0,
+        "scheduled_hour": 13
+      },
+      {
+        "station_no": 16,
+        "code": "SAP",
+        "name": "Sattenapalle",
+        "distance_km": 450,
+        "scheduled_offset_min": 456.0,
+        "scheduled_hour": 13
+      },
+      {
+        "station_no": 17,
+        "code": "PGRL",
+        "name": "Piduguralla",
+        "distance_km": 480,
+        "scheduled_offset_min": 482.0,
+        "scheduled_hour": 14
+      },
+      {
+        "station_no": 18,
+        "code": "NDKD",
+        "name": "Nadikode",
+        "distance_km": 502,
+        "scheduled_offset_min": 503.0,
+        "scheduled_hour": 14
+      },
+      {
+        "station_no": 19,
+        "code": "MRGA",
+        "name": "Miryalaguda",
+        "distance_km": 541,
+        "scheduled_offset_min": 532.0,
+        "scheduled_hour": 15
+      },
+      {
+        "station_no": 20,
+        "code": "NLDA",
+        "name": "Nalgonda",
+        "distance_km": 578,
+        "scheduled_offset_min": 562.0,
+        "scheduled_hour": 15
+      },
+      {
+        "station_no": 21,
+        "code": "RMNP",
+        "name": "Ramannapet",
+        "distance_km": 613,
+        "scheduled_offset_min": 594.0,
+        "scheduled_hour": 16
+      },
+      {
+        "station_no": 22,
+        "code": "CHZ",
+        "name": "Charlapalli",
+        "distance_km": 676,
+        "scheduled_offset_min": 705.0,
+        "scheduled_hour": 18
+      },
+      {
+        "station_no": 23,
+        "code": "SC",
+        "name": "Secunderabad Jn",
+        "distance_km": 688,
+        "scheduled_offset_min": 725.0,
+        "scheduled_hour": 18
+      },
+      {
+        "station_no": 24,
+        "code": "BMT",
+        "name": "Begumpet",
+        "distance_km": 693,
+        "scheduled_offset_min": 741.0,
+        "scheduled_hour": 18
+      },
+      {
+        "station_no": 25,
+        "code": "LPI",
+        "name": "Lingampalli",
+        "distance_km": 711,
+        "scheduled_offset_min": 775.0,
+        "scheduled_hour": 19
+      }
+    ]
+  },
+  "12806": {
+    "train_name": "Andhra Express",
+    "stations": [
+      {
+        "station_no": 1,
+        "code": "VSKP",
+        "name": "Visakhapatnam Jn",
+        "distance_km": 0,
+        "scheduled_offset_min": 0.0,
+        "scheduled_hour": 9
+      },
+      {
+        "station_no": 2,
+        "code": "BZA",
+        "name": "Vijayawada Jn",
+        "distance_km": 120,
+        "scheduled_offset_min": 133.9,
+        "scheduled_hour": 11
+      },
+      {
+        "station_no": 3,
+        "code": "WL",
+        "name": "Warangal",
+        "distance_km": 300,
+        "scheduled_offset_min": 333.3,
+        "scheduled_hour": 14
+      },
+      {
+        "station_no": 4,
+        "code": "KZJ",
+        "name": "Kazipet Jn",
+        "distance_km": 320,
+        "scheduled_offset_min": 358.1,
+        "scheduled_hour": 14
+      },
+      {
+        "station_no": 5,
+        "code": "NGP",
+        "name": "Nagpur",
+        "distance_km": 640,
+        "scheduled_offset_min": 710.2,
+        "scheduled_hour": 20
+      },
+      {
+        "station_no": 6,
+        "code": "BPL",
+        "name": "Bhopal Jn",
+        "distance_km": 980,
+        "scheduled_offset_min": 1084.1,
+        "scheduled_hour": 3
+      },
+      {
+        "station_no": 7,
+        "code": "NDLS",
+        "name": "New Delhi",
+        "distance_km": 1670,
+        "scheduled_offset_min": 1839.8,
+        "scheduled_hour": 15
+      }
+    ]
+  },
+  "12841": {
+    "train_name": "Coromandel Express",
+    "stations": [
+      {
+        "station_no": 1,
+        "code": "MAS",
+        "name": "Chennai Central",
+        "distance_km": 0,
+        "scheduled_offset_min": 0.0,
+        "scheduled_hour": 18
+      },
+      {
+        "station_no": 2,
+        "code": "VSKP",
+        "name": "Visakhapatnam Jn",
+        "distance_km": 780,
+        "scheduled_offset_min": 757.8,
+        "scheduled_hour": 7
+      },
+      {
+        "station_no": 3,
+        "code": "BBS",
+        "name": "Bhubaneswar",
+        "distance_km": 1100,
+        "scheduled_offset_min": 1070.5,
+        "scheduled_hour": 12
+      },
+      {
+        "station_no": 4,
+        "code": "KGP",
+        "name": "Kharagpur Jn",
+        "distance_km": 1450,
+        "scheduled_offset_min": 1412.2,
+        "scheduled_hour": 18
+      },
+      {
+        "station_no": 5,
+        "code": "HWH",
+        "name": "Howrah Jn",
+        "distance_km": 1660,
+        "scheduled_offset_min": 1618.5,
+        "scheduled_hour": 21
+      }
+    ]
+  },
+  "20704": {
+    "train_name": "Vande Bharat Express",
+    "stations": [
+      {
+        "station_no": 1,
+        "code": "SC",
+        "name": "Secunderabad Jn",
+        "distance_km": 0,
+        "scheduled_offset_min": 0.0,
+        "scheduled_hour": 5
+      },
+      {
+        "station_no": 2,
+        "code": "KMT",
+        "name": "Khammam",
+        "distance_km": 180,
+        "scheduled_offset_min": 123.0,
+        "scheduled_hour": 7
+      },
+      {
+        "station_no": 3,
+        "code": "RJY",
+        "name": "Rajahmundry",
+        "distance_km": 350,
+        "scheduled_offset_min": 239.3,
+        "scheduled_hour": 9
+      },
+      {
+        "station_no": 4,
+        "code": "VSKP",
+        "name": "Visakhapatnam Jn",
+        "distance_km": 500,
+        "scheduled_offset_min": 342.3,
+        "scheduled_hour": 11
+      }
+    ]
+  },
+  "22691": {
+    "train_name": "Rajdhani Express",
+    "stations": [
+      {
+        "station_no": 1,
+        "code": "BNC",
+        "name": "Bengaluru Cant",
+        "distance_km": 0,
+        "scheduled_offset_min": 0.0,
+        "scheduled_hour": 20
+      },
+      {
+        "station_no": 2,
+        "code": "GTL",
+        "name": "Guntakal Jn",
+        "distance_km": 300,
+        "scheduled_offset_min": 279.9,
+        "scheduled_hour": 1
+      },
+      {
+        "station_no": 3,
+        "code": "BPL",
+        "name": "Bhopal Jn",
+        "distance_km": 1780,
+        "scheduled_offset_min": 1649.1,
+        "scheduled_hour": 23
+      },
+      {
+        "station_no": 4,
+        "code": "NDLS",
+        "name": "New Delhi",
+        "distance_km": 2365,
+        "scheduled_offset_min": 2192.1,
+        "scheduled_hour": 9
+      }
+    ]
+  }
+}

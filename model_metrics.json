@@ -1,0 +1,18 @@
+{
+  "model_kind": "lightgbm",
+  "features": [
+    "prev_delay",
+    "distance_to_next_km",
+    "hour_of_day",
+    "dow",
+    "stations_from_origin",
+    "train_id_enc"
+  ],
+  "train_rows": 995,
+  "test_rows": 229,
+  "mae_min": 15.07,
+  "rmse_min": 44.7,
+  "r2": 0.379,
+  "within_5min_pct": 69.0,
+  "within_10min_pct": 84.7
+}
